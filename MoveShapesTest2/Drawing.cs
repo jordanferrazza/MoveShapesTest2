@@ -9,6 +9,9 @@ namespace MoveShapesTest2
 {
     public abstract class Drawing
     {
+        //(C) 2024 Jordan Ferrazza
+
+
         /// <summary>
         /// subclasses handle draw
         /// </summary>

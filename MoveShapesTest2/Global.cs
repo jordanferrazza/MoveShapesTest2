@@ -8,6 +8,8 @@ namespace MoveShapesTest2
 {
     public static class Global
     {
+        //(C) 2024 Jordan Ferrazza
+
         public static bool InBounds(Point p, Rectangle r)
         {
             return p.X > r.X && p.Y > r.Y && p.X < r.Width + r.X && p.Y < r.Y + r.Height;
